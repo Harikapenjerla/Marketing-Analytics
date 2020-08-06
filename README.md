@@ -8,7 +8,7 @@ Topics:<br />
 In this course for each topic, completed an example project to determine learning skills.<br />
 
 Brand Architecture of two branded gaming devices <br />
-[Github] https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Brand_Architecture_Report.pdf <br />
+[Github](https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Brand_Architecture_Report.pdf) <br />
 
-Design a marketing experiment <br />
-[Github][https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Design%20a%20Marketing%20Experiment.pdf
+Design a Marketing Experiment <br />
+[Github](https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Design%20a%20Marketing%20Experiment.pdf)
