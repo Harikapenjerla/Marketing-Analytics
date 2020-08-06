@@ -1,8 +1,9 @@
 # Marketing-Analytics
 I got an opportunity to explore more details about applying analytics in marketing field through Marketing Analytics course offered by Universty of Virginia/ Darden School of Business by Professor Rajkumar Venkatesan in Coursera.<br />
+
 ## Topics:<br />
 
-1. Steps necessary for marketing planning process.<br />
+1. Steps necessary for the marketing planning process.<br />
 2. Evaluation of brand and brand architecture and Impact on brand value for marketing.<br />
 3. Evaluation of marketing based on Customer Lifetime Value and Customer Retention.<br />
 4. Made inferences about Customer behavior based on regression and made business decisions.<br />
