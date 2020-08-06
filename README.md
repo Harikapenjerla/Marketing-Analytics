@@ -7,5 +7,5 @@ Topics:<br />
 4. Made inferences about Customer behavior based on regression and made business decisions.<br />
 In this course for each topic, completed an example project to determine learning skills.<br />
 
-Brand Architecture of two branded gaming devices 
-[gihub]https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Brand_Architecture_Report.pdf
+Brand Architecture of two branded gaming devices <br />
+[Github] https://github.com/Harikapenjerla/Marketing-Analytics/blob/master/Brand_Architecture_Report.pdf
